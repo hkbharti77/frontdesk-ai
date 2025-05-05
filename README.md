@@ -27,3 +27,12 @@ This project simulates a smart AI receptionist that can handle customer calls, e
 | Text-to-Speech         | Web SpeechSynthesis API               |
 
 --
+
+Create a .env in backend/:
+
+env
+FIREBASE_API_KEY=your_firebase_api_key
+FIREBASE_PROJECT_ID=your_project_id
+FIREBASE_APP_ID=your_app_id
+LK_API_KEY=your_livekit_api_key
+LK_API_SECRET=your_livekit_api_secret
